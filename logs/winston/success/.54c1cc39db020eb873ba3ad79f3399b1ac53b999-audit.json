@@ -1,0 +1,35 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\MD_MASUD_RANA\\Programming_Heo\\University-management-server\\logs\\winston\\success\\.54c1cc39db020eb873ba3ad79f3399b1ac53b999-audit.json",
+    "files": [
+        {
+            "date": 1685962119487,
+            "name": "D:\\MD_MASUD_RANA\\Programming_Heo\\University-management-server\\logs\\winston\\success\\UM-2023-06-05-16-success.log",
+            "hash": "a829265b4da9df8070aa6841d896228d2e925ea72369df8523472ca248804c28"
+        },
+        {
+            "date": 1685964916799,
+            "name": "D:\\MD_MASUD_RANA\\Programming_Heo\\University-management-server\\logs\\winston\\success\\UM-2023-06-05-17-success.log",
+            "hash": "49d4a4f55ff777b887b876bc76522fe5d8c6b9d1ce7e4d7eac5a24271fcb0c96"
+        },
+        {
+            "date": 1685968071335,
+            "name": "D:\\MD_MASUD_RANA\\Programming_Heo\\University-management-server\\logs\\winston\\success\\UM-2023-06-05-18-success.log",
+            "hash": "9f1e1ee83e5f72453e893fe9ee710a96a3ac9f7aea286042339d5d5faa46bd2b"
+        },
+        {
+            "date": 1685980838376,
+            "name": "D:\\MD_MASUD_RANA\\Programming_Heo\\University-management-server\\logs\\winston\\success\\UM-2023-06-05-22-success.log",
+            "hash": "5a9b03602d535d68129a92dc440929f49c8d8b903aee392eaba5cea7505116e3"
+        },
+        {
+            "date": 1685984800636,
+            "name": "D:\\MD_MASUD_RANA\\Programming_Heo\\University-management-server\\logs\\winston\\success\\UM-2023-06-05-23-success.log",
+            "hash": "fe92ab04078eceabf1fa379e816be2dea5d3d6b9e4e148bb26de48b16ae00244"
+        }
+    ],
+    "hashType": "sha256"
+}
