@@ -6,24 +6,29 @@
     "auditLog": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\success\\.c98a3d98d4aa7e0a7e73f48dfbd9338b4239da8a-audit.json",
     "files": [
         {
-            "date": 1686476423243,
-            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\success\\UM-2023-06-11-15-success.log",
-            "hash": "0aa7ca9ee8abf4733c2c0aca313673b0d0352dfd5988573c4738d45d864409e0"
+            "date": 1686561908054,
+            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\success\\UM-2023-06-12-15-success.log",
+            "hash": "2abde6427620afd10809e81aa9ba639a397a3fef0404cd6bfde964b117eaa744"
         },
         {
-            "date": 1686477777612,
-            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\success\\UM-2023-06-11-16-success.log",
-            "hash": "6611c21c1ec98dbecf7d87523aad49f2f69937bfe01a07d99b3b0cba811a4e4a"
+            "date": 1686564117298,
+            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\success\\UM-2023-06-12-16-success.log",
+            "hash": "5bbd3a290511bcdb7cdd050d33ab3e8127017d1e3fa983536fcb9dd25a015789"
         },
         {
-            "date": 1686495728476,
-            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\success\\UM-2023-06-11-21-success.log",
-            "hash": "9791c3b0a7e4c16714ad82ea9463eb7cc5a0b055295f518311164300361d11ea"
+            "date": 1686567629822,
+            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\success\\UM-2023-06-12-17-success.log",
+            "hash": "6968617d3cef73d27e7bb7e85c376fb11918d3687f8ac9a6f54c12370085004e"
         },
         {
-            "date": 1686499254709,
-            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\success\\UM-2023-06-11-22-success.log",
-            "hash": "ea8be90c7872d0152cf00398995cb6f22e7e2b72fa15e0d0ae3fb03d05bf59f2"
+            "date": 1686586748479,
+            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\success\\UM-2023-06-12-22-success.log",
+            "hash": "0fbf65c6230d49b5b47722a39e8500bed5497816e2957c3470d53afde8d81428"
+        },
+        {
+            "date": 1686630236073,
+            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\success\\UM-2023-06-13-10-success.log",
+            "hash": "e81690a76bc8a7d6bda09aa3bec50ce0e4ea9f3440fc40dd9ad648fef393f30a"
         }
     ],
     "hashType": "sha256"

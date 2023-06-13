@@ -1,4 +1,4 @@
 export type iGenerecMessage = {
-  path: string
-  message: string
-}
+  path: string | number;
+  message: string;
+};

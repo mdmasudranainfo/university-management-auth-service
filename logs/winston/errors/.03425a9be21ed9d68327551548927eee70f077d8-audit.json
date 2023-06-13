@@ -6,24 +6,29 @@
     "auditLog": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\errors\\.03425a9be21ed9d68327551548927eee70f077d8-audit.json",
     "files": [
         {
-            "date": 1686476423252,
-            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\errors\\UM-2023-06-11-15-error.log",
-            "hash": "a6650e6b1fff9cbc98d911799e7bffb5d5d4c25c15e0ca913421a8fda498040f"
+            "date": 1686561908061,
+            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\errors\\UM-2023-06-12-15-error.log",
+            "hash": "97c07add734d2411b8a487c02754272abef6b468e1e1d7dbc733f87169918a62"
         },
         {
-            "date": 1686477777618,
-            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\errors\\UM-2023-06-11-16-error.log",
-            "hash": "18fe8dc81a3b0aace1f28dd7b4b53cc14d14c4c84f063975af8a358d7316fc09"
+            "date": 1686564117309,
+            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\errors\\UM-2023-06-12-16-error.log",
+            "hash": "92da6f86fd1762bf6a50e118abb824b9877fbdfb352be80685b1a850e0d167d8"
         },
         {
-            "date": 1686495728484,
-            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\errors\\UM-2023-06-11-21-error.log",
-            "hash": "902cbe6e0cbc81c36949877cb8d964f8e3929fe51cda748d150e27b941c5640f"
+            "date": 1686567629835,
+            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\errors\\UM-2023-06-12-17-error.log",
+            "hash": "7aa7b59b39c80542ec39bd67dab89ad855f28cb479932fa0d2e8b7b7139ba21b"
         },
         {
-            "date": 1686499254719,
-            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\errors\\UM-2023-06-11-22-error.log",
-            "hash": "de745c0d3605064224d65c527516a8c7eb3d6f4b6a81d465ded694e613094b1a"
+            "date": 1686586748486,
+            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\errors\\UM-2023-06-12-22-error.log",
+            "hash": "3a4ac82ebaf0ad5e884ffa698e7cac334454094ba56e724f8aeb0fb9aa59eb84"
+        },
+        {
+            "date": 1686630236082,
+            "name": "C:\\Proffestional-project\\University-management-server\\logs\\winston\\errors\\UM-2023-06-13-10-error.log",
+            "hash": "32014d1ce248c18baa0cd103ffd1d617f19ad23fc94eab076dfde7956d5f6921"
         }
     ],
     "hashType": "sha256"
